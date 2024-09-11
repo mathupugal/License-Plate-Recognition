@@ -1,0 +1,10 @@
+flask_webpage/license_plate_recognition_model.h5
+flask_webpage/Pipfile
+flask_webpage/Pipfile.lock
+
+
+Training_and_Evaluation/license_plate_recognition_model.h5
+Training_and_Evaluation/dataset_1/
+Training_and_Evaluation/dataset_2/
+
+working_process_for_1_image/dataset/

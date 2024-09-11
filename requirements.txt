@@ -1,0 +1,9 @@
+flask
+opencv-python
+numpy
+easyocr
+imutils
+tensorflow==2.10.0
+matplotlib
+contourpy==1.0.5
+
